@@ -1,2 +1,0 @@
-# mobeenportifolio
-“Personal portfolio project showcasing my work as a developer. Built with a modern web frontend, a Python-powered backend, and AI/ML model training integration. Demonstrates skills in frontend development, backend logic, and machine learning workflows.”
